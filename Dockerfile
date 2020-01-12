@@ -1,4 +1,4 @@
-FROM 7.4.1-apache
+FROM php:7.4.1-apache
 
 
 ENV APACHE_DOCUMENT_ROOT /path/to/new/root
